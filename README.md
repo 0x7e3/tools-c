@@ -1,12 +1,12 @@
-#tools-c
+# tools-c
 own c tools
 
 
-###assembly
+### assembly
 ```
 $ gcc stack_ll.c - o stack_ll
 ```
-###use
+### use
 ```
 $ stack_ll <filename>
 ```
