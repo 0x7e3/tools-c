@@ -3,8 +3,7 @@
  * SYNOPSIS: stack_ll [FILE] 
  * 
  * DESCRIPTION: Check for balanced brackets {} in file and print 
- * on the standart output warning with number of line, where is 
- * an error.
+ * on the standart output warning with number of line where an error is.
  * 
  * Program to implement a STACK using a LINKED LIST.
  * 
